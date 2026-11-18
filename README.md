@@ -84,3 +84,7 @@ flowchart LR
 ## Maintainer review guide
 
 See [add email rendering, accessibility and send-readiness matrix](./docs/EMAIL_CLIENT_RELEASE_MATRIX.md) for scoped review procedures, release evidence and risk controls specific to this repository.
+
+## Email editorial and inbox fallback acceptance
+
+Review the [HTML email content and accessibility guide](docs/EMAIL_CLIENT_ACCEPTANCE.md) together with the [existing client release matrix](./docs/EMAIL_CLIENT_RELEASE_MATRIX.md). The former defines content/fallback acceptance; the latter provides the project release matrix.
