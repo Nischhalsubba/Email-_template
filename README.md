@@ -80,3 +80,7 @@ flowchart LR
     CLIENT --> CONTENT["Copy / link verification"]
     CONTENT --> PR["Pull request"]
 ```
+
+## Maintainer review guide
+
+See [add email rendering, accessibility and send-readiness matrix](./docs/EMAIL_CLIENT_RELEASE_MATRIX.md) for scoped review procedures, release evidence and risk controls specific to this repository.
